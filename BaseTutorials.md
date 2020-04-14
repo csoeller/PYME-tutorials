@@ -1,6 +1,6 @@
 # A list of basic video tutorials for PYME functionality
 
-*Note*: The videos arecurrently only accessible to users at the University of Exeter and require university login. In the future we may export videos that can be held in a public repository.
+*Note*: The videos are currently only accessible to users at the University of Exeter and require university login. In the future we may export videos that can be held in a public repository.
 
 ## PYME VisGUI x1 vs x10 - overlay and show gating
 
