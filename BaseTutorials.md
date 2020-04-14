@@ -10,7 +10,7 @@ Video Link: [PYME VisGUI x1 vs x10 - overlay and show gating](https://recapexete
 
 ## PYME - FRC as a function of the number of frames
 
-This video tutorials shows how to calculate the FRC resolution of a sequence and vary the number of frames used for calculating the FRC resolution.
+This video tutorials shows how to calculate the FRC (Fourier Ring Correlation) resolution of a sequence and vary the number of frames used for calculating the FRC resolution.
 
 Video Link: [PYME - FRC as a function of the number of frames](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3a5581ab-e081-4a00-968d-ab9c015cc42b)
 
