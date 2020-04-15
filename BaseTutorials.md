@@ -22,4 +22,5 @@ Video Link: [PYME - FRC as a function of the number of frames](https://recapexet
 
 - Recipes - saving and loading
 - Recipes - changing recipe parameters to adjust analysis on the fly
-- Fiducials - finding and applying fiducially for drift correction
+- Fiducials - finding and applying fiducial information for drift correction
+- Filtering non-specific binding events in DNA-PAINT
