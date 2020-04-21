@@ -24,9 +24,19 @@ A basic overview how to save and load data processing pipelines in PYME.
 
 Video Link: [PYME - Saving and loading visgui recipes](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9822295e-9e1a-48ce-a2a6-aba4008f6b34)
 
+### PYME - finding and selecting fiducials
+
+A basic overview how to find (locate) and then select fiducial information in PYME.
+
+Video Link: [PYME - finding and selecting fiducials](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64c89833-784b-4556-88b4-aba400a12e91)
+
+### PYME - applying fiducials for drift correction
+
+A basic overview how to apply fiducial information to drift correct a data series in PYME.
+
+Video Link: [PYME - applying fiducials for drift correction](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6c516348-95da-41da-b14f-aba400a848f7)
+
 ## ToDo List
 
-- Recipes - saving and loading
 - Recipes - changing recipe parameters to adjust analysis on the fly
-- Fiducials - finding and applying fiducial information for drift correction
 - Filtering non-specific binding events in DNA-PAINT
