@@ -18,6 +18,12 @@ This video tutorials shows how to calculate the FRC (Fourier Ring Correlation) r
 
 Video Link: [PYME - FRC as a function of the number of frames](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3a5581ab-e081-4a00-968d-ab9c015cc42b)
 
+### PYME - Saving and loading visgui recipes
+
+A basic overview how to save and load data processing pipelines in PYME.
+
+Video Link: [PYME - Saving and loading visgui recipes](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9822295e-9e1a-48ce-a2a6-aba4008f6b34)
+
 ## ToDo List
 
 - Recipes - saving and loading
