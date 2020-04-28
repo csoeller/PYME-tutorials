@@ -40,3 +40,4 @@ Video Link: [PYME - applying fiducials for drift correction](https://recapexeter
 
 - Recipes - changing recipe parameters to adjust analysis on the fly
 - Filtering non-specific binding events in DNA-PAINT
+- 3D visualisation with PYME
