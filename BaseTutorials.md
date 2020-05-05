@@ -36,6 +36,12 @@ A basic overview how to apply fiducial information to drift correct a data serie
 
 Video Link: [PYME - applying fiducials for drift correction](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6c516348-95da-41da-b14f-aba400a848f7)
 
+### PYME - Pipeline Whiteboard session
+
+This is a slightly different video as it is purely a whiteboard session to briefly introduce the concept of the VisGUI pipeline. The VisGUI pipeline is the data processing pipeline that we apply to raw recorded events when we open an H5R file in VisGUI. It is suggested viewing before you go on to look at any of the more heavily recipe based videos above and below.
+
+Video Link: [PYME - Pipeline Whiteboard session](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6c75ba0b-0ea8-45d6-b9ad-abb2008b30fe)
+
 ## ToDo List
 
 - Recipes - changing recipe parameters to adjust analysis on the fly
