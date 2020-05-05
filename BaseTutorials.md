@@ -42,8 +42,13 @@ This is a slightly different video as it is purely a whiteboard session to brief
 
 Video Link: [PYME - Pipeline Whiteboard session](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6c75ba0b-0ea8-45d6-b9ad-abb2008b30fe)
 
+### PYME - Filtering non-specific imager binding
+
+In this video we show how to identify and then reject the non-specific imager binding that we often see when using DNA-PAINT. We show how to use the relevant menu functions (supplied via the PYME-extra module) and how you can change some of the parameters after the fact when you want to explore their effect on the filtering process.
+
+Video Link: [PYME - nonspecific labeling identfication and rejection](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57b92314-562e-4b7b-8739-abb200df2aed)
+
 ## ToDo List
 
 - Recipes - changing recipe parameters to adjust analysis on the fly
-- Filtering non-specific binding events in DNA-PAINT
 - 3D visualisation with PYME
