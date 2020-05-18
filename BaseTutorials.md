@@ -48,6 +48,12 @@ In this video we show how to identify and then reject the non-specific imager bi
 
 Video Link: [PYME - nonspecific labeling identfication and rejection](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57b92314-562e-4b7b-8739-abb200df2aed)
 
+### PYME - measuring event rates
+
+This is a newish PYME-extra function to simplify measuring the density of events in a selected ROI, specified in events per um^2. Note that the current implementation does not check over how many frames these were recorded. In future, we may add that functionality. For now you will have to filter the time to the range of frames you want to investigate.
+
+Video Link: [PYME - measuring event rates](https://recapexeter.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f8af060c-0d55-4540-be37-abbf013a3f47)
+
 ## ToDo List
 
 - Recipes - changing recipe parameters to adjust analysis on the fly
